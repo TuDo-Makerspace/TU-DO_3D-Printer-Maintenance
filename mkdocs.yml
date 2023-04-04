@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: TU-DO 3D Printer Maintenance Book
+docs_dir: 'src'
+site_dir: 'docs'
+theme: readthedocs 
+markdown_extensions:
+        - admonition
