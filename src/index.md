@@ -14,11 +14,11 @@ For each printer, the documentation should contain the following information:
 
 ## Our Printers
 
-- [Ultimaker 2 Go](/ultimaker2go/) - Docs currently still missing
-- [Anet A8](/aneta8/) - Docs currently still missing
-- [Creality CR-10](/crealitycr10/) - Docs currently still missing
-- [CTC Dual](/ctcdual/) - Docs currently still missing
-- [Artillery Siderwinder x2](/artillery_siderwinder_x2/)
+- [Ultimaker 2 Go](ultimaker2go/) - Docs currently still missing
+- [Anet A8](aneta8/) - Docs currently still missing
+- [Creality CR-10](crealitycr10/) - Docs currently still missing
+- [CTC Dual](ctcdual/) - Docs currently still missing
+- [Artillery Siderwinder x2](artillery_siderwinder_x2/)
 
 ## Contributing
 
