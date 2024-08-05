@@ -18,7 +18,7 @@ For each printer, the documentation should contain the following information:
 - [Anet A8](/aneta8/) - Docs currently still missing
 - [Creality CR-10](/crealitycr10/) - Docs currently still missing
 - [CTC Dual](/ctcdual/) - Docs currently still missing
-- [Artillery Siderwinder x2](/artillery_siderwinder_x2/)] 
+- [Artillery Siderwinder x2](/artillery_siderwinder_x2/)
 
 ## Contributing
 
